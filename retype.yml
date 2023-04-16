@@ -2,8 +2,8 @@ input: .
 output: .retype
 url: example.com # Add your website address here
 branding:
-  title: Project Name
-  label: Docs
+  title: Vairagya Game Engine
+  label: v1.0
 poweredByRetype: true # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
                       # See: https://retype.com/pro
