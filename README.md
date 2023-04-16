@@ -1,3 +1,3 @@
-# Vairagya Game Engine Website
+# Welcome
 
-Custom 3D platformer game engine that uses Unity as a base.
+Vairagya Game Engine is a custom 3D platformer game engine that uses UNITY as base.
